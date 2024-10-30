@@ -11,9 +11,9 @@ As a dedicated student and leader, I've had the opportunity to:
 ⚽ Captain my school's soccer team for seven years, competing at the state level and developing strong leadership and teamwork skills.<br>
 📚 Serve as President of Academics, conducting needs assessments and providing tutoring to help fellow students improve their academic performance.<br>
 
-[![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0-os)](https://github.com/retr0-os/github-readme-stats)
+[![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0-os)](https://github.com/retr0-os/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0-os&layout=compact)](https://github.com/retr0-os/github-readme-stats&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0-os)](https://github.com/retr0-os/github-readme-stats)
+
 
 
 ## Thanks For Reading
