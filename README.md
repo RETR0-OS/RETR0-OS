@@ -14,6 +14,10 @@ As a dedicated student and leader, I've had the opportunity to:
 [![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0-os)](https://github.com/retr0-os/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0-os&layout=compact)](https://github.com/retr0-os/github-readme-stats&layout=compact)
 
 
+## Socials
+- Personal website: https://devpost.com/ajinda17
+- LinkedIn: https://www.linkedin.com/in/aadityajindal12/
+- X (Twitter): https://x.com/jindalAaditya12
 
 
 ## Thanks For Reading
