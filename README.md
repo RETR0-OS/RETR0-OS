@@ -13,6 +13,8 @@ As a dedicated student and leader, I've had the opportunity to:
 
 [![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0-os)](https://github.com/retr0-os/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0-os)](https://github.com/retr0-os/github-readme-stats)
+
 
 ## Thanks For Reading
 I'm constantly learning and expanding my technical skills, with proficiency in languages like Python, SQL, and C#, as well as frameworks such as Django and Unity. I'm excited about the future of technology and looking forward to contributing to innovative projects that make a positive impact.
