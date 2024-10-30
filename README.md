@@ -1,7 +1,7 @@
-# R3tr0 M1ll3r
+# Aaditya Jindal
 
 ## About Me
-Tech enthusiast and aspiring computer scientist, R3tr0 M1ll3r (those who know me, know that ain't true 😅) here. I'm passionate about leveraging technology to solve real-world problems and create innovative solutions.
+Tech enthusiast and aspiring computer scientist, Aaditya Jindal here. I'm passionate about leveraging technology to solve real-world problems and create innovative solutions.
 As a dedicated student and leader, I've had the opportunity to:
 
 ## Some Of My Works
@@ -10,6 +10,9 @@ As a dedicated student and leader, I've had the opportunity to:
 🤖 Create ARPA, an intelligent text-based desktop assistant, demonstrating my interest in AI and natural language processing.<br>
 ⚽ Captain my school's soccer team for seven years, competing at the state level and developing strong leadership and teamwork skills.<br>
 📚 Serve as President of Academics, conducting needs assessments and providing tutoring to help fellow students improve their academic performance.<br>
+
+[![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0-os)](https://github.com/retr0-os/github-readme-stats)
+
 
 ## Thanks For Reading
 I'm constantly learning and expanding my technical skills, with proficiency in languages like Python, SQL, and C#, as well as frameworks such as Django and Unity. I'm excited about the future of technology and looking forward to contributing to innovative projects that make a positive impact.
