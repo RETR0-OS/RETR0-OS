@@ -11,8 +11,10 @@ As a dedicated student and leader, I've had the opportunity to:
 💪 Building an AR workout application with EPICS @ ASU to help users keep good form in all their workouts an prevent injuries.<br>
 📚 Serve as Undergraduate Teaching Assistant @ ASU, teaching Python and C++, helping students clear their doubts and providing tutoring to help improve their academic performance.<br>
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-gilt.vercel.app?user=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats-nine-gilt.vercel.app/?user=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RETR0-OS&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/RETR0-OS/github-readme-stats)
 
 ## Socials
 - Personal website: https://devpost.com/ajinda17
