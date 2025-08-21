@@ -11,7 +11,6 @@ ModelForge lets you fine-tune state-of-the-art language models on your local GPU
 - ⚡ **Works everywhere:** Laptops, desktops – you name it.
 - 🤖 **Automatic deployment:** Export models straight to your apps.
 - 🔌 Powered by Transformers, PEFT, FastAPI, bitsandbytes.
-- 🔧 **Make it yours:** Add your own models/tasks easily!
 
 ---
 
@@ -21,6 +20,13 @@ Meet Saarthi: your friendly, secure voice-first AI for Indian government schemes
 - 🔐 **Face login:** Keeping your info safe.
 - ⚙️ **Streamlit UI:** Clean, no-fuss.
 - 🌐 **Runs local:** Edge/private LLMs for full privacy.
+
+---
+
+### 🎨 DataCanvas – Paint Your Dataset!
+What if data science was as easy as MS Paint?
+- ✏️ "Draw" up to 5-d datasets visually to build synthetic data to feed your ML models rapidly!
+- 🏗️ Spring Boot + JS
 
 ---
 
@@ -52,18 +58,6 @@ All the music, none of the interruptions!
 Your AI buddy (that won't eat your RAM)
 - 🎶 Plays music, sets alarms, does math!
 - 🐍 Made with Python & SpaCy
-
----
-
-### 🏪 E-commerce Security Template (Django)
-Shop safely – modern e-comm with security baked in!
-
----
-
-### 🎨 DataCanvas – Paint Your Dataset!
-What if data science was as easy as MS Paint?
-- ✏️ Draw n-d datasets visually
-- 🏗️ Spring Boot + JS
 
 ---
 
