@@ -74,3 +74,11 @@ Feel free to connect with me to discuss technology, collaborate on projects, or 
 [![GitHub Streak](https://github-readme-streak-stats-nine-gilt.vercel.app/?user=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RETR0-OS&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/RETR0-OS/github-readme-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RETR0-OS&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETR0-OS&layout=compact&theme=dracula)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RETR0-OS&theme=dracula)
+
+
