@@ -5,7 +5,7 @@ As a dedicated student and leader, I've had the opportunity to:
 
 ## 🚀 Some of my Works
 
-### 🧩 ModelForge – No-code LLM Finetuning (Python • React)
+### 🧩 ModelForge – No-code LLM Finetuning
 ModelForge lets you fine-tune state-of-the-art language models on your local GPU – zero code, zero stress! Just upload, train, and go! 💡
 - 🖱️ **Drag-n-drop UI:** No terminal kung fu required.
 - ⚡ **Works everywhere:** Laptops, desktops – you name it.
