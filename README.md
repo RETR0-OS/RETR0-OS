@@ -6,50 +6,61 @@ As a dedicated student and leader, I've had the opportunity to:
 ## 🚀 Some of my Works
 
 ### 🧩 ModelForge – No-code LLM Finetuning ([repo](https://github.com/RETR0-OS/ModelForge))
-A no-code toolkit to finetune LLMs on your local GPU—just upload data, pick a task, and deploy later. Perfect for hackathons or prototyping, with automatic hardware detection and a guided React interface.
-- 🖱️ **Drag-n-drop UI:** No terminal kung fu required.
-- ⚡ **Works everywhere:** Laptops, desktops – you name it.
-- 🤖 **Automatic deployment:** Export models straight to your apps.
-- 🔌 Powered by Transformers, PEFT, FastAPI, bitsandbytes.
+A no-code toolkit to finetune LLMs on your local GPU—just upload data, pick a task, and deploy later. Built for fast iteration at hackathons and in early-stage prototyping, with automatic hardware detection and a guided React UI.
+- 💡 Key features: task presets (classification, Q&A, chat), dataset upload with schema hints, experiment tracking, and one-click export of fine‑tuned weights.
+- 🔐 Privacy by design: everything runs locally; no cloud dependency required.
+- ⚙️ Hardware‑aware: automatic GPU/CPU fallback, mixed precision, and LoRA adapters for low‑VRAM machines.
+- 🧩 Integrations: export an inference endpoint you can drop into your app.
+- 🛠️ Tech stack: React, FastAPI, Hugging Face Transformers, PEFT, bitsandbytes, Docker (optional).
+- 🎯 Why it stands out: true no‑code finetuning that actually works on laptops, enabling rapid model iteration without MLOps overhead.
 ---
 
 ### 💻 code_stream ([repo](https://github.com/RETR0-OS/code_stream))
-A lightweight framework for syncing and streaming code across Jupyter Notebooks in real-time!
-- ⚡ **Async streaming:** Handle code sync in real-time
-- 🎯 **Minimal & focused:** Clean architecture, easy to understand
-- 🔧 **TypeScript-first:** Full type safety and modern tooling
-- 🚀 Built with TypeScript for modern development workflows
+A lightweight framework for real‑time code streaming and sync across Jupyter notebooks and services—ideal for live demos, classrooms, and pair‑programming.
+- ⚡ Real‑time: stream cell edits and execution events as they happen.
+- 🔌 Multi‑runtime bridge: TypeScript client SDK with a Python bridge for Jupyter.
+- 🧱 Modular: minimal core with small, focused components you can extend.
+- 🧪 Dev‑friendly: clean architecture, typed end‑to‑end, and easy to reason about.
+- 🛠️ Tech stack: TypeScript/Node.js, Python, WebSockets, modern tooling.
+- 🎯 Why it stands out: keeps scope tight—synchronization done right, without the bloat of full collab suites.
 ---
 
 ### 🎓 Learning Management System for NMTSA ([repo](https://github.com/2025-Arizona-Opportunity-Hack/Coderz-NMTSAEducationPlatfo))
-Django-based LMS for Neurologic Music Therapy Services of Arizona (NMTSA) with dual authentication (Auth0 for students/teachers, Django admin for admins), autism-friendly UI, and comprehensive course and assignment workflows.
-- 📚 **Full-featured LMS:** Course management, assignments, and assessments
-- 👥 **Multi-role support:** Students, teachers, and administrators with RBAC
-- 🔐 **Secure auth:** OAuth for users; separate Django admin for admins
-- 🎨 **Accessible UI:** Tailwind-based themes and font controls
+Django‑based LMS for Neurologic Music Therapy Services of Arizona (NMTSA) featuring dual authentication, role‑based access, and accessible UI patterns tailored for neurodiverse learners.
+- 🔐 Auth model: Auth0 for students/teachers; dedicated Django admin for administrators.
+- 📚 Learning flows: courses, assignments, assessments, and submissions with progress tracking and gradebook views.
+- 🧩 Roles & permissions: RBAC for students, teachers, and admins.
+- 🎨 Accessibility: autism‑friendly UI with adjustable themes and font scaling.
+- 🛠️ Tech stack: Django, HTML/CSS/JavaScript.
+- 🎯 Why it stands out: designed with inclusive education in mind—simple, secure, and focused on essentials a small nonprofit actually needs.
 ---
 
 ### 🎨 DataCanvas – Paint Your Dataset! ([repo](https://github.com/RETR0-OS/spring-dataset-builder))
-Dataset builder that lets you visually "paint" synthetic datasets up to 5 dimensions in an MS‑Paint‑like interface, save them to MySQL for downstream wrangling, and export to CSV.
-- ✏️ **Canvas-style drawing:** Create up to 5‑D datasets visually
-- 🗃️ **Persistent storage:** Save datasets to MySQL for later use
-- 📤 **Export:** One-click CSV export for ML workflows
-- 🏗️ **Stack:** Spring Boot (Java), HTML/CSS/JavaScript
+An MS‑Paint‑style dataset builder to draw synthetic datasets up to 5 dimensions, persist them for later wrangling, and export to CSV for ML pipelines.
+- ✏️ Visual authoring: sketch classes and clusters directly on a canvas.
+- 🗃️ Persistence: save to MySQL for reproducible experiments.
+- 📤 Export: one‑click CSV for training/validation workflows.
+- 🛠️ Tech stack: Spring Boot (Java), HTML/CSS/JavaScript, MySQL.
+- 🎯 Why it stands out: turns dataset prototyping into a fast, visual loop—no notebooks required.
 ---
 
 ### 🗣️ Saarthi – AI Voice Assistant for Government Schemes ([repo](https://github.com/RETR0-OS/saarthi_voice_assistant))
-Saarthi is an AI-powered, voice-first assistant that helps citizens discover and understand government schemes with face authentication, secure PII handling, and a Streamlit UI powered by LangGraph and local LLMs.
-- 💬 **Talk to it!** Hindi/English, text or voice – your pick.
-- 🔐 **Face login:** Keeping your info safe.
-- ⚙️ **Streamlit UI:** Clean, no-fuss.
-- 🌐 **Runs local:** Edge/private LLMs for full privacy.
+A privacy‑first, voice‑forward assistant that helps citizens discover and understand Indian government schemes, with on‑device LLMs and secure identity.
+- 🗣️ Multi‑modal I/O: converse in Hindi/English via text or voice.
+- 🔐 Face authentication: protects access and personal context.
+- 🧠 Orchestrated reasoning: LangGraph‑powered flows running local/private LLMs.
+- 🖥️ Simple UI: Streamlit interface optimized for clarity and speed.
+- 🛠️ Tech stack: Python, LangGraph, local LLMs, Streamlit.
+- 🎯 Why it stands out: practical AI for public services—offline‑capable, private by default, and actually usable by non‑technical audiences.
 ---
 
 ### 🚗 ProjectSpyn – Autonomous Car Driving ([repo](https://github.com/RETR0-OS/ProjectSpyn----Autonomous-Car-Drivnng))
-MATLAB-based robotics control system for LEGO Mindstorms EV3. Built as an inclusivity project to improve mobility for specially‑abled people via personalized autonomous transportation across a maze‑like city.
-- 🔧 **EV3 control:** MATLAB scripts to interface with EV3 motors and sensors
-- 🧭 **Autonomy:** Maze navigation routines and path-following behaviors
-- ♿ **Inclusive design:** Mobility‑focused prototype for specially‑abled users
+A MATLAB robotics control system for LEGO Mindstorms EV3, built to improve mobility for specially‑abled individuals through personalized, autonomous maze navigation.
+- 🔧 EV3 integration: motor/sensor control via MATLAB for deterministic behavior.
+- 🧭 Autonomy: navigation routines for path planning and obstacle handling in a maze‑like city.
+- ♿ Mission‑driven: inclusive design focused on assisted mobility.
+- 🛠️ Tech stack: MATLAB, LEGO Mindstorms EV3.
+- 🎯 Why it stands out: applies autonomy to a real accessibility challenge—not just a toy self‑driving demo.
 ---
 
 ## Socials
