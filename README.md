@@ -72,9 +72,22 @@ A MATLAB robotics control system for LEGO Mindstorms EV3, built to improve mobil
 I'm constantly learning and expanding my technical skills, with proficiency in languages like Python, SQL, and C#, as well as frameworks such as Django and Unity. I'm excited about the future of technology and its potential to drive positive change.
 Feel free to connect with me to discuss technology, collaborate on projects, or share ideas about the ever-evolving world of computer science!
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-gilt.vercel.app/?user=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RETR0-OS&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats" title="GitHub Streak">
+    <img
+      alt="GitHub Streak"
+      height="195"
+      src="https://github-readme-streak-stats-nine-gilt.vercel.app/?user=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
+    <img
+      alt="GitHub Stats"
+      height="195"
+      src="https://github-readme-stats.vercel.app/api?username=RETR0-OS&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage"
+    />
+  </a>
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RETR0-OS&theme=dracula)
 
