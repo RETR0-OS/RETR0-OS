@@ -10,9 +10,9 @@ ModelForge lets you fine-tune state-of-the-art language models on your local GPU
 - 🤖 **Automatic deployment:** Export models straight to your apps.
 - 🔌 Powered by Transformers, PEFT, FastAPI, bitsandbytes.
 ---
-### 💻 code_stream – Minimal TypeScript Streaming Framework
-A lightweight framework for streaming code execution and real-time processing!
-- ⚡ **Async streaming:** Handle code execution in real-time
+### 💻 code_stream
+A lightweight framework for syncing and streaming code across Jupyter Notebooks in real-time!
+- ⚡ **Async streaming:** Handle code sync in real-time
 - 🎯 **Minimal & focused:** Clean architecture, easy to understand
 - 🔧 **TypeScript-first:** Full type safety and modern tooling
 - 🚀 Built with TypeScript for modern development workflows
