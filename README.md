@@ -1,7 +1,11 @@
 # Aaditya Jindal
-## About Me
-Tech enthusiast and aspiring computer scientist, Aaditya Jindal here. I'm passionate about leveraging technology to solve real-world problems and create innovative solutions.
-As a dedicated student and leader, I've had the opportunity to:
+
+## 👋 About Me
+Hey there! I'm Aaditya Jindal—a tech enthusiast who codes like there's no tomorrow and debugs like there's *definitely* a tomorrow (usually at 3 AM). By day, I'm a computer science student with a passion for building things that actually work. By night... well, I'm still coding, just with more coffee ☕.
+
+I specialize in turning "wouldn't it be cool if..." into production-ready applications. Whether it's fine-tuning LLMs on my laptop, building voice assistants for government schemes, or teaching robots to navigate mazes for accessibility, I'm all about leveraging technology to solve real-world problems—preferably before the hackathon deadline hits.
+
+When I'm not pushing commits or wrestling with merge conflicts, you'll find me contributing to open-source projects, participating in hackathons, and continuously expanding my technical toolkit. I believe in writing clean code, building inclusive solutions, and never, *ever* pushing to production on a Friday.
 
 ## 🚀 Some of my Works
 
@@ -63,14 +67,29 @@ A MATLAB robotics control system for LEGO Mindstorms EV3, built to improve mobil
 - 🎯 Why it stands out: applies autonomy to a real accessibility challenge—not just a toy self‑driving demo.
 ---
 
-## Socials
-- Personal website: https://devpost.com/ajinda17
-- LinkedIn: https://www.linkedin.com/in/aadityajindal12/
-- X (Twitter): https://x.com/jindalAaditya12
+## 🌐 Let's Connect
+- **Portfolio & Projects**: [Devpost](https://devpost.com/ajinda17) – Where I showcase my hackathon wins and projects
+- **Professional Network**: [LinkedIn](https://www.linkedin.com/in/aadityajindal12/) – Let's connect!
+- **Tech Musings**: [X (Twitter)](https://x.com/jindalAaditya12) – Hot takes and tech discussions
+- **GitHub**: [RETR0-OS](https://github.com/RETR0-OS) – You're already here!
 
-## Thanks For Reading
-I'm constantly learning and expanding my technical skills, with proficiency in languages like Python, SQL, and C#, as well as frameworks such as Django and Unity. I'm excited about the future of technology and its potential to drive positive change.
-Feel free to connect with me to discuss technology, collaborate on projects, or share ideas about the ever-evolving world of computer science!
+## 🤝 Community & Organizations
+Proud member of:
+- **[2025 Arizona Opportunity Hack](https://github.com/2025-Arizona-Opportunity-Hack)** – Building tech solutions for nonprofits and social good. Part of Team Coderz, where we developed an inclusive Learning Management System for NMTSA (Neurologic Music Therapy Services of Arizona).
+
+## 🛠️ Tech Stack & Skills
+**Languages**: Python, Java, C#, TypeScript/JavaScript, SQL, MATLAB, C  
+**Frameworks & Tools**: Django, Spring Boot, React, FastAPI, Node.js, LangGraph, Streamlit  
+**AI/ML**: Hugging Face Transformers, PyTorch, PEFT, LLM Fine-tuning, Computer Vision  
+**Databases**: MySQL, PostgreSQL  
+**Other**: Docker, Git, REST APIs, WebSockets, OAuth/Auth0, LEGO Mindstorms EV3
+
+---
+
+## 💬 Thanks For Reading!
+I'm always excited to collaborate on innovative projects, discuss the latest in AI/ML, or just geek out about technology. Whether you're a recruiter looking for someone who can ship production code and handle technical challenges, or a fellow developer wanting to collaborate—I'd love to connect!
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aadityajindal12/) or check out my projects above. Let's build something amazing together! 🚀
 
 <p align="center">
   <a href="https://git.io/streak-stats" title="GitHub Streak">
