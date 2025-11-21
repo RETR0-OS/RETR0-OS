@@ -108,7 +108,7 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aadityajindal1
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RETR0-OS&theme=dracula)
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=RETR0-OS&theme=dracula)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETR0-OS&layout=compact&theme=dracula)
 
