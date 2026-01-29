@@ -108,8 +108,21 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aadityajindal1
   </a>
 </p>
 
-![trophy](https://github-readme-stats.vercel.app/api/?username=RETR0-OS&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETR0-OS&layout=compact&theme=dracula)
+<p align="center">
+  <a href="https://git.io/streak-stats" title="GitHub Streak">
+    <img
+      alt="Github Stats
+      height="195"
+      src="https://github-readme-stats.vercel.app/api/?username=RETR0-OS&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
+    <img
+      alt="Most Used Languages"
+      height="195"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RETR0-OS&layout=compact&theme=dracula"
+    />
+  </a>
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RETR0-OS&theme=dracula)
