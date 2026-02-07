@@ -92,37 +92,25 @@ I'm always excited to collaborate on innovative projects, discuss the latest in 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aadityajindal12/) or check out my projects above. Let's build something amazing together! 🚀
 
 <p align="center">
-  <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img
-      alt="GitHub Streak"
-      height="195"
-      src="https://github-readme-streak-stats-nine-gilt.vercel.app/?user=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
-    <img
-      alt="GitHub Stats"
-      height="195"
-      src="https://github-readme-stats.vercel.app/api?username=RETR0-OS&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage"
-    />
-  </a>
+  <img
+    alt="GitHub Streak"
+    height="195"
+    src="https://github-readme-streak-stats-nine-gilt.vercel.app/?user=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+  />
+  <img
+    alt="GitHub Stats"
+    height="195"
+    src="https://github-readme-stats.vercel.app/api?username=RETR0-OS&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage"
+  />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img
-      alt="Github Stats
-      height="195"
-      src="https://github-readme-stats.vercel.app/api/?username=RETR0-OS&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
-    <img
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-gilt.vercel.app?user=RETR0-OS&theme=dracula" alt="GitHub Streak" /></a>
+   <img
       alt="Most Used Languages"
       height="195"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RETR0-OS&layout=compact&theme=dracula"
-    />
-  </a>
+  />
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RETR0-OS&theme=dracula)
