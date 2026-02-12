@@ -99,4 +99,6 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aadityajindal1
   />
 </p>
 
+![GitHub Stats](https://github-stats-phi-nine.vercel.app/api?username=RETR0-OS)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RETR0-OS&theme=dracula)
