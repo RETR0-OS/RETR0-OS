@@ -99,13 +99,13 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aadityajindal1
   />
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-gilt.vercel.app?user=RETR0-OS&theme=dracula" alt="GitHub Streak" /></a>
     <img
       alt="Most Used Languages"
       height="195"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RETR0-OS&layout=compact&theme=dracula"
   /> 
-</p> -->
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RETR0-OS&theme=dracula)
