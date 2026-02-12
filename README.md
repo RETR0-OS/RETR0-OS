@@ -99,6 +99,12 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aadityajindal1
   />
 </p>
 
-![GitHub Stats](https://github-stats-phi-nine.vercel.app/api?username=RETR0-OS)
+<p align="center">
+  <img
+    alt="GitHub Streak"
+    height="195"
+    src="https://github-stats-phi-nine.vercel.app/api?username=RETR0-OS&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+  />
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RETR0-OS&theme=dracula)
